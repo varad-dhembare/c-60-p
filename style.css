@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    background: linear-gradient(#13b08e 0%, #f01a02 100%);
+}
+
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 100px;
+    margin: 8px auto;
+}
+
+
+
+
+#man{
+    font-family: cursive;
+}
+
+img{
+    transition: transform: .2s;
+    border: 10x solid: #AAAAAA;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
